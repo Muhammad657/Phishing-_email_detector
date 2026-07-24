@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/emails.csv
+models/*.joblib
+.claude/settings.local.json
+.env
